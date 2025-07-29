@@ -60,7 +60,11 @@ Use **SSH** or **HTTPS** links from GitHub.
 📌 Example:
 
 ```bash
-git clone https://github.com/uq-csse3200/sample-project.git
+git clone https://github.com/UQcsse3200/2025-studio-1.git
+```
+
+```bash
+git@github.com:UQcsse3200/2025-studio-1.git
 ```
 
 > 💡 SSH is recommended if you’ve set up SSH keys.
