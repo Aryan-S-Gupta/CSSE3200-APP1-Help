@@ -15,7 +15,7 @@ Before using Git, set your global user identity.
 ### 1. Set Username
 
 ```bash
-git config --global user.name "Aryan Gupta"
+git config --global user.name "your_name"
 ```
 
 ### 2. Set Email
