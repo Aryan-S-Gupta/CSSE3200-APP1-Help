@@ -87,12 +87,6 @@ git@github.com:UQcsse3200/2025-studio-1.git
 touch filename.txt
 ```
 
-**Alternative for Windows:**
-
-```bash
-echo. > filename.txt
-```
-
 ### 2. View Current Directory
 
 ```bash
