@@ -41,7 +41,7 @@ git config --get user.email    # Check Git email
 
 ## 📁 Creating a Repository
 
-### 🅰️ A. Initialize Git in an Existing Folder
+### A. Initialize Git in an Existing Folder
 
 ```bash
 git init
@@ -49,7 +49,7 @@ git init
 
 This creates a `.git/` folder to track changes.
 
-### 🅱️ B. Clone an Existing GitHub Repository
+### B. Clone an Existing GitHub Repository
 
 ```bash
 git clone [URL]
